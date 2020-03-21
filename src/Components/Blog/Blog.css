@@ -1,0 +1,6 @@
+.single-blog:hover img {
+    opacity: .85;
+}
+.single-blog {
+    border: 1px solid #eee;
+}

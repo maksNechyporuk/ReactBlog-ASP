@@ -1,0 +1,15 @@
+.blog-content {
+  padding: 30px 20px;
+}
+
+.blog-title h4 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.blog_buttons {
+color:initial;
+color:white;
+margin: 5px;
+}
